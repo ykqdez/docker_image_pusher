@@ -1,1 +1,1 @@
-xiaoyakeeper:latest
+dockerproxy.com/library/alpine

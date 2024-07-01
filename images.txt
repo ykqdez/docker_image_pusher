@@ -1,2 +1,1 @@
-xiaoyaliu/alist
-xiaoyakeeper
+xiaoyakeeper:latest

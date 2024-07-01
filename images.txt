@@ -1,1 +1,1 @@
-dockerproxy.com/library/alpine
+emby/embyserver

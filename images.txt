@@ -1,2 +1,2 @@
-xiaoyaliu/alist:hostmode
+xiaoyaliu/alist
 xiaoyakeeper
